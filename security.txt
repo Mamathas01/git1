@@ -1,1 +1,2 @@
 'hello world'
+adding an avatar for user
