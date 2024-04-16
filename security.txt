@@ -1,4 +1,8 @@
 'hello world'
 adding an avatar for user
+<<<<<<< HEAD
 create avatar
 "change1"git"
+=======
+create avatar
+>>>>>>> feature3
